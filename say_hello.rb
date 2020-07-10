@@ -1,3 +1,3 @@
 # Build your say_hello method here
-
-put say_hello("Ruby")
+ 
+say_hello("Ruby")
